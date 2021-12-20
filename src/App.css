@@ -36,9 +36,3 @@
     transform: rotate(360deg);
   }
 }
-nav {
-  background-color: aquamarine;
-  font-size: "35px";
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  align-content: center;
-}
